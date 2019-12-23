@@ -1,0 +1,2 @@
+lassie= dog.new
+end
